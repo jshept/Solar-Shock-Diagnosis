@@ -26,9 +26,13 @@ Hope this project help you in studying the solar atmosphere shocks.
 
 
 Jiansen HE
+
 Group leader of the project
+
 jshept@pku.edu.cn
+
 Peking University
+
 
 July 11, 2018
 
