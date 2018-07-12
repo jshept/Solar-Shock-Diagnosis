@@ -20,7 +20,7 @@ By employing this method to the observations from Interface Region Imaging Spect
 
 How to use the code in this project to the diagnosis of solar atmosphere shock:
 
-Please refer to the document "???.pdf" for the details, and run the code "???.py" for an example test. The input parameters in the code "???.py" can be adjusted according to the user's case. As the output, the full set of shock paramters can be calculated from the code "???.py".
+Please refer to the document "Introduction to Shock-ABIS (Shock Analysis Based on Imaging Spectrograph).pdf" for the details, and run the code "Shock-ABIS.py" for an example test. The input parameters in the code "Shock-ABIS.py" can be adjusted according to the user's case. As the output, the full set of shock paramters can be calculated from the code "Shock-ABIS.py".
 
 Hope this project help you in studying the solar atmosphere shocks.
 
